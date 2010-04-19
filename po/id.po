@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-03-22 02:28+0100\n"
+"POT-Creation-Date: 2010-04-19 17:56+0200\n"
 "PO-Revision-Date: 2010-03-22 02:28+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -55,7 +55,7 @@ msgstr ""
 msgid ""
 "Become the ruler of your tribe, and lead them to a better home.\n"
 "\n"
-"(Expert level, 5 of 10 scenarios complete.)"
+"(Expert level, 7 of 10 scenarios complete.)"
 msgstr ""
 
 #. [about]
@@ -109,7 +109,7 @@ msgid "Death of Ubor"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Founding_of_Borstep/utils/tfob-utils.cfg:69
+#: The_Founding_of_Borstep/utils/tfob-utils.cfg:71
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:83
 msgid "Run out of turns"
 msgstr ""
@@ -120,109 +120,109 @@ msgid "Ubor's Clan"
 msgstr ""
 
 #. [side]: type=Orcish Warlord, id=Pash-Grog
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:188
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:190
 msgid "Pash-Grog"
 msgstr ""
 
 #. [side]: type=Orcish Slayer 2, id=Al Hauk
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:205
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:207
 msgid "Al Hauk's Assassins"
 msgstr ""
 
 #. [side]: type=Goblin Pillager, id=Grashnok
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:256
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:258
 msgid "Grashnok's Wolves"
 msgstr ""
 
 #. [side]
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:310
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:312
 msgid "Neutral Shamans"
 msgstr ""
 
 #. [message]: speaker=Varlag
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:504
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:506
 msgid ""
 "Ubor! There's action in the main chamber. Pash-Grog's been poisoned! You "
 "should come watch."
 msgstr ""
 
 #. [message]: speaker=Al Hauk
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:530
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:532
 msgid ""
 "...No, you idiot. Gold is for getting stuff you don't have, not for "
 "collecting!"
 msgstr ""
 
 #. [message]: speaker=Pash-Grog
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:560
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:562
 msgid "Stand...still...(cough)"
 msgstr ""
 
 #. [message]: speaker=Grashnok
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:574
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:576
 msgid "Finally. I was tired that old fool. Now move out of the way, weakling."
 msgstr ""
 
 #. [message]: speaker=Al Hauk
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:578
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:580
 msgid "What? No, not gonna happen. I'm in charge!"
 msgstr ""
 
 #. [message]: speaker=Varlag
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:582
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:584
 msgid ""
 "They're both weaklings. Our clan in the strongest. We...uh...You should be "
 "the big boss."
 msgstr ""
 
 #. [message]: speaker=Krag-Ubor
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:586
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:588
 msgid ""
 "Of course I should, and don't think that you can slack because we have the "
 "same father."
 msgstr ""
 
 #. [message]: speaker=Varlag
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:590
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:592
 msgid "No, no. I'm happy to help."
 msgstr ""
 
 #. [message]: speaker=Al Hauk
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:594
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:596
 msgid ""
 "I'm coming back with some of my clan, and we'll see who's weak, and who's "
 "dead!"
 msgstr ""
 
 #. [message]: speaker=Grashnok
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:606
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:608
 msgid "Maybe I should get some more expendable help."
 msgstr ""
 
 #. [message]: speaker=Krag-Ubor
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:621
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:623
 msgid "All right you slugs, up! We're gonna' go bash some skulls!"
 msgstr ""
 
 #. [message]: speaker=Krag-Ubor
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:625
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:627
 msgid ""
 "The bows got stowed in one of the southern tunnels, and some of you wimps "
 "can handle one of those, at least. Go find 'em."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:629
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:631
 msgid "Once any unit finds the bows, you will be able to recruit archers."
 msgstr ""
 
 #. [message]: speaker=Krag-Ubor
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:634
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:636
 msgid "And someone get down to the wolf pens. We could use some speed."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:638
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:640
 msgid ""
 "If any unit reaches the wolf pens you will be able to recruit wolf riders. "
 "Also, up to four goblins who reach the wolf pens can mount wolves and become "
@@ -230,108 +230,108 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Krag-Ubor
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:643
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:645
 msgid "Now move, maggots!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:658
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:660
 msgid "Look! There's a hole here behind this boulder."
 msgstr ""
 
 #. [message]: speaker=Krag-Ubor
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:662
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:664
 msgid "I think anyone could squeeze through that."
 msgstr ""
 
 #. [message]: speaker=gold_guard1
 #. [message]: speaker=gold_guard2
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:708
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:718
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:710
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:720
 msgid "Hey! You can't come in here. Pash-Grog said so."
 msgstr ""
 
 #. [message]: speaker=gold_guard2
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:712
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:714
 msgid "Yeah! What he said."
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:737
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:739
 msgid ""
 "This must be the money Pash-Grog was collecting from the humans! There's a "
 "lot of gold here."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:748
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:750
 msgid "You receive $treasure gold."
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:769
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:771
 msgid "I reached the wolf pens."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:776
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1447
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:778
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1449
 msgid "You can now recruit wolf riders!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:854
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:856
 msgid "This unit is too heavy to ride a wolf. Use a goblin instead."
 msgstr ""
 
 #. [message]: speaker=narrator
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:398
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:425
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:889
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:891
 msgid "What should our unit become?"
 msgstr ""
 
 #. [option]: speaker=narrator
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:892
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:894
 msgid "Goblin Knight  (melee: 7-4 blade;  HP: 49)"
 msgstr ""
 
 #. [option]: speaker=narrator
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:901
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:903
 msgid ""
 "Goblin Pillager  (melee: 5-3 blade, 7-3 fire;  ranged: 6-2 impact, slows;  "
 "HP: 44)"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:981
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:983
 msgid "I found the bows."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:988
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1490
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:990
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1492
 msgid "You can now recruit archers!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1010
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1012
 msgid "Hey! There are bottles of poison in here."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1017
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1375
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1019
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1377
 msgid "You can now recruit assassins!"
 msgstr ""
 
 #. [message]: speaker=Krag-Ubor
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1131
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1133
 msgid "Hey, you shamans, come out here and help us take control of this mess!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1135
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1137
 msgid ""
 "No, we will remain neutral. When the tribe has one leader, then we will lend "
 "our support. In the mean time, we will heal anyone who needs it, until our "
@@ -339,7 +339,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1146
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1148
 msgid ""
 "When you move a unit onto the hex with the medical kit next to the shaman "
 "village, the shamans will immediately heal up to 16 points of damage, or "
@@ -347,88 +347,88 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=unit
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1220
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1222
 msgid "I feel much better."
 msgstr ""
 
 #. [message]: speaker=Krag-Ubor
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1236
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1238
 msgid "Then get back to work!"
 msgstr ""
 
 #. [message]: speaker=Krag-Ubor
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1272
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1274
 msgid ""
 "I name myself Krag-Ubor! Does anyone else dispute my claim to leadership?"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1324
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1326
 msgid "(Silence)"
 msgstr ""
 
 #. [message]: speaker=Krag-Ubor
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1329
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1331
 msgid "Good. Shamans?"
 msgstr ""
 
 #. [message]: speaker=Erogrik
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1334
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1336
 msgid "We recognize Krag-Ubor as leader of the tribe."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1338
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1340
 msgid "You can now recruit shamans!"
 msgstr ""
 
 #. [message]: speaker=Krag-Ubor
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1350
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1352
 msgid "I know there's poison stored around here somewhere. Find it."
 msgstr ""
 
 #. [message]: speaker=$near_unit.id
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1355
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1357
 msgid "Right away, boss."
 msgstr ""
 
 #. [message]: speaker=$near_unit.id
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1368
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1370
 msgid "Here it is. There are lots of bottles in here."
 msgstr ""
 
 #. [message]: speaker=Krag-Ubor
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1401
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1403
 msgid "Hey, you! Go down to the wolf pens, and bring up some wolves."
 msgstr ""
 
 #. [message]: speaker=$near_unit.id
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1426
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1428
 msgid "Um, can't someone else do that?"
 msgstr ""
 
 #. [message]: speaker=Krag-Ubor
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1430
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1432
 msgid "NO!"
 msgstr ""
 
 #. [message]: speaker=Krag-Ubor
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1465
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1467
 msgid "You! Go find where the bows are kept."
 msgstr ""
 
 #. [message]: speaker=$near_unit.id
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1470
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1472
 msgid "Got it boss."
 msgstr ""
 
 #. [message]: speaker=$near_unit.id
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1483
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1485
 msgid "Here they are."
 msgstr ""
 
 #. [message]: speaker=Krag-Ubor
-#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1501
+#: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1503
 msgid "We're moving out right away."
 msgstr ""
 
@@ -455,6 +455,7 @@ msgstr ""
 
 #. [objective]: condition=win
 #: The_Founding_of_Borstep/scenarios/02_Thieves.cfg:45
+#: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:38
 msgid "Defeat enemy leaders."
 msgstr ""
 
@@ -948,28 +949,230 @@ msgid ""
 "your clan."
 msgstr ""
 
+#. [part]
+#: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:10
+msgid ""
+"Krag-Ubor expected only a short journey and the quick beheading of a few "
+"guards, but the journey to the city of the dwarves was to prove difficult. A "
+"light snow was drifting down as they began their trek, and soon a thick, wet "
+"blanket covered the ground, hindering their movement. Finally, they saw a "
+"large door carved into the rock in the distance. The door lead to Durguld's "
+"home, but it first passed through a cavern inhabited by trolls."
+msgstr ""
+
+#. [part]
+#: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:13
+msgid ""
+"Durguld told the tale of the great battle between those trolls from under "
+"the mountain and the elves of the Silent Forest. The elves had eventually "
+"forced the trolls to retreat, but the cost in lives was not easily born. The "
+"elves magically sealed the door through which the trolls had come, and "
+"posted a guard. Durguld was certian that he could break the seal on the door "
+"with his runic hammer, but the elvish guards would have to be held off for "
+"him to reach the door."
+msgstr ""
+
+#. [scenario]: id=Guarded_Door
+#: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:28
+msgid "Guarded Door"
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:44
+msgid "Get Durlguld, and then Krag-Ubor to the door."
+msgstr ""
+
+#. [objective]: condition=win
+#: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:48
+msgid "Defeat enemy leaders. (bonus)"
+msgstr ""
+
+#. [message]: speaker=Durguld
+#: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:134
+msgid ""
+"It should nae be a difficult feat for ye to defeat these elves and reach "
+"yonder door."
+msgstr ""
+
+#. [message]: speaker=Krag-Ubor
+#: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:138
+msgid ""
+"Of course. Elves die easy. You hear that elves? We're goin' through your "
+"door!"
+msgstr ""
+
+#. [message]: speaker=Cellindor
+#: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:142
+msgid ""
+"If the trolls are released they would present a danger to the entire "
+"continent. No one may approach this door, on penalty of death. Your party "
+"must turn back."
+msgstr ""
+
+#. [message]: speaker=Krag-Ubor
+#: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:146
+msgid "I hate being told what to do!"
+msgstr ""
+
+#. [message]: speaker=Krag-Ubor
+#: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:154
+msgid "Now let's get into this troll tunnel."
+msgstr ""
+
+#. [message]: speaker=Durguld
+#: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:198
+msgid "I've unsealed the door. Follow me!"
+msgstr ""
+
+#. [message]: speaker=Krag-Ubor
+#: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:248
+msgid "I can't open the door!"
+msgstr ""
+
+#. [message]: speaker=Durguld
+#: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:252
+msgid ""
+"As I told ye, it be magically sealed. Let me get to the door, and I can open "
+"it."
+msgstr ""
+
+#. [message]: speaker=Krag-Ubor
+#: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:269
+msgid "Without Durguld, we won't be able to open that door."
+msgstr ""
+
+#. [part]
+#: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:6
+msgid ""
+"The orcs slipped into the cave and heaved the door to behind them. The elves "
+"would be furious, but by following the orcs into the darkness they would "
+"only put themselves at risk. Even after their eyes adjusted to the gloom, "
+"they couldn't see any trolls nearby, but they could hear shuffling, "
+"grunting, and flapping. Apparently, the cavern was well populated, so the "
+"orcs bared their teeth and prepared for battle, but this time they did it "
+"quietly."
+msgstr ""
+
+#. [side]: id=Nuk Thoh, type=Troll Rocklobber
+#. [side]: id=Gulg, type=Troll Warrior
+#. [side]: id=Utsok, type=Troll Warrior
+#. [scenario]: id=Trolls
+#: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:22
+#: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:81
+#: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:97
+#: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:110
+msgid "Trolls"
+msgstr ""
+
+#. [side]
+#: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:149
+msgid "Bats"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:344
+msgid "You receive 95 gold."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:362
+msgid "Look! There's a little tunnel back here."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:392
+msgid "Hey, what in the world is that thing on the platform?"
+msgstr ""
+
+#. [message]: speaker=Durguld
+#: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:398
+msgid ""
+"That be a golem I reckon, but I've nae heard o' golems made from flesh; only "
+"from stone. How long has it been trapped there, I cannae guess."
+msgstr ""
+
+#. [message]: speaker=unit
+#: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:422
+msgid "I found a map of this cavern!"
+msgstr ""
+
+#. [message]: speaker=$second_unit.id
+#: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:463
+msgid "Why are the bats attacking us and not the trolls?"
+msgstr ""
+
+#. [message]: speaker=Erogrik
+#: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:472
+msgid "They're vampire bats. Do trolls even have blood?"
+msgstr ""
+
+#. [message]: speaker=Durguld
+#: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:478
+msgid "They be vampire bats. I do not ken what trolls use for blood."
+msgstr ""
+
+#. [message]: speaker=$generic_troll1.id
+#: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:516
+msgid "We under attack!"
+msgstr ""
+
+#. [message]: speaker=$generic_troll2.id
+#: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:522
+msgid "Good. Me hungry."
+msgstr ""
+
+#. [message]: speaker=Nuk Thoh
+#: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:526
+msgid "The rock tosser clan will crush!"
+msgstr ""
+
+#. [message]: speaker=Flesh_Golem
+#: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:665
+msgid "Master, what do you command?"
+msgstr ""
+
+#. [message]: speaker=Krag-Ubor
+#: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:669
+msgid "What? Uh...kill anyone I tell you to!"
+msgstr ""
+
+#. [message]: speaker=Flesh_Golem
+#: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:673
+msgid "Yes, master."
+msgstr ""
+
+#. [message]: speaker=Krag-Ubor
+#: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:677
+msgid "I like this thing!"
+msgstr ""
+
+#. [message]: speaker=Krag-Ubor
+#: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:719
+msgid "Without Durguld, we'll never be able to find the dwarves."
+msgstr ""
+
 #: The_Founding_of_Borstep/utils/tfob-utils.cfg:20
 msgid "Orcs"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Founding_of_Borstep/utils/tfob-utils.cfg:50
-#: The_Founding_of_Borstep/utils/tfob-utils.cfg:61
+#: The_Founding_of_Borstep/utils/tfob-utils.cfg:52
+#: The_Founding_of_Borstep/utils/tfob-utils.cfg:63
 msgid "Death of Krag-Ubor"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Founding_of_Borstep/utils/tfob-utils.cfg:54
+#: The_Founding_of_Borstep/utils/tfob-utils.cfg:56
 msgid "Run out of Turns"
 msgstr ""
 
 #. [objective]: condition=lose
-#: The_Founding_of_Borstep/utils/tfob-utils.cfg:65
+#: The_Founding_of_Borstep/utils/tfob-utils.cfg:67
 msgid "Death of Durguld"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: The_Founding_of_Borstep/utils/tfob-utils.cfg:89
+#: The_Founding_of_Borstep/utils/tfob-utils.cfg:91
 msgid ""
 "With their momentum lost, the orcs descend into pointless squabling no "
 "matter how many of them you punish."
