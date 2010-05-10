@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2010-04-24 10:25+0200\n"
+"POT-Creation-Date: 2010-05-11 00:27+0200\n"
 "PO-Revision-Date: 2010-03-22 02:28+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -881,54 +881,54 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Leader_2
-#: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:444
+#: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:447
 msgid "I'll take over! Now we'll get some real leadership around here."
 msgstr ""
 
 #. [message]: speaker=Leader_3
-#: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:449
+#: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:452
 msgid "Now I'm the boss! You won't be able to kill me so easy."
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:477
+#: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:480
 msgid "Collect at least {SWORD_COST} gold."
 msgstr ""
 
 #. [message]: speaker=Krag-Ubor
-#: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:516
+#: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:519
 msgid "Now I have enough money."
 msgstr ""
 
 #. [message]: speaker=Krag-Ubor
-#: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:529
+#: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:532
 msgid ""
 "Hi, dwarf! Where are you? I'll take that sword, and I'll pay you "
 "{SWORD_COST} gold."
 msgstr ""
 
 #. [message]: speaker=Durguld
-#: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:543
+#: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:546
 msgid "Excellent. It is yours."
 msgstr ""
 
 #. [object]
-#: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:559
+#: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:562
 msgid "Dwarvish Greatsword"
 msgstr ""
 
 #. [object]
-#: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:560
+#: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:563
 msgid "This sword adds two points of damage to every strike!"
 msgstr ""
 
 #. [message]: speaker=Durguld
-#: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:566
+#: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:569
 msgid "Be there any further business ye wish to conduct?"
 msgstr ""
 
 #. [message]: speaker=Krag-Ubor
-#: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:570
+#: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:573
 msgid ""
 "Yeah, could you make us all weapons as good as this sword? We just took this "
 "fort easy enough, so someone else will try to take it from us. If we all had "
@@ -936,7 +936,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Durguld
-#: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:574
+#: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:577
 msgid ""
 "I canna' make all those weapons by meself, but if I take ye to my kin, we "
 "could be finished in short order. I am happy to go with ye. My journey home "
@@ -945,7 +945,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Krag-Ubor
-#: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:578
+#: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:581
 msgid ""
 "Guards don't bother us. We need the best weapons we can get, so guide us to "
 "your clan."
@@ -1216,7 +1216,7 @@ msgid "This potion decreases a unit's experience requirements by one third!"
 msgstr ""
 
 #. [message]: speaker=Krag-Ubor
-#: The_Founding_of_Borstep/scenarios/08_Underground_Lake.cfg:290
+#: The_Founding_of_Borstep/scenarios/08_Underground_Lake.cfg:289
 msgid "Without Durguld, we'll never be able to get the dwarves' help."
 msgstr ""
 
