@@ -3,60 +3,63 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-10-03 12:46+0200\n"
-"PO-Revision-Date: 2010-03-22 02:28+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2010-12-04 12:06+0100\n"
+"Last-Translator: kele <kele@neszmely.eu>\n"
+"Language-Team: Hungarian Wesnoth Translation Team\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: Hungarian\n"
+"X-Poedit-Country: HUNGARY\n"
+"X-Poedit-SourceCharset: utf-8\n"
 
 #. [campaign]: id=The_Founding_of_Borstep
 #. [editor_group]: id=tfob
 #: The_Founding_of_Borstep/_main.cfg:12 The_Founding_of_Borstep/_main.cfg:55
 msgid "The Founding of Borstep"
-msgstr ""
+msgstr "Borstep alapítása"
 
 #. [campaign]: id=The_Founding_of_Borstep
 #: The_Founding_of_Borstep/_main.cfg:13
 msgid "TFoB"
-msgstr ""
+msgstr "BA"
 
 #. [campaign]: id=The_Founding_of_Borstep
 #: The_Founding_of_Borstep/_main.cfg:17
 msgid "Grunt"
-msgstr ""
+msgstr "Közkatona"
 
 #. [campaign]: id=The_Founding_of_Borstep
 #: The_Founding_of_Borstep/_main.cfg:17
 msgid "(Normal)"
-msgstr ""
+msgstr "(Átlagos)"
 
 #. [campaign]: id=The_Founding_of_Borstep
 #: The_Founding_of_Borstep/_main.cfg:18
 msgid "(Challenging)"
-msgstr ""
+msgstr "(Kihívást jelentő)"
 
 #. [campaign]: id=The_Founding_of_Borstep
 #: The_Founding_of_Borstep/_main.cfg:18 The_Founding_of_Borstep/_main.cfg:19
 msgid "Warrior"
-msgstr ""
+msgstr "Harcos"
 
 #. [campaign]: id=The_Founding_of_Borstep
 #: The_Founding_of_Borstep/_main.cfg:19
 msgid "(Difficult)"
-msgstr ""
+msgstr "(Nehéz)"
 
 #. [campaign]: id=The_Founding_of_Borstep
 #: The_Founding_of_Borstep/_main.cfg:20
 msgid "Warlord"
-msgstr ""
+msgstr "Hadúr"
 
 #. [campaign]: id=The_Founding_of_Borstep
 #: The_Founding_of_Borstep/_main.cfg:20
 msgid "(Nightmare)"
-msgstr ""
+msgstr "(Rémálom)"
 
 #. [campaign]: id=The_Founding_of_Borstep
 #: The_Founding_of_Borstep/_main.cfg:24
@@ -67,11 +70,16 @@ msgid ""
 "\n"
 "(Expert level, 10 scenarios.)"
 msgstr ""
+"A törzsed főnöke gyengévé és erőtlenné vált. Taszítsd le a trónról, s vezesd "
+"a népedet egy jobb hazába--amit lehet, hogy most mások laknak. Aki az "
+"utatokba áll, azt ismertesd meg az orkok elrettentő erejével!\n"
+"\n"
+"(Gyakorlott szint, 10 küldetés)"
 
 #. [about]
 #: The_Founding_of_Borstep/_main.cfg:29
 msgid "Campaign Design and Programming"
-msgstr ""
+msgstr "Hadjárattervezés és programozás"
 
 #. [part]
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:38
@@ -86,6 +94,16 @@ msgid ""
 "course he wasn't sharing, and the other members of his tribe could not see "
 "any benefit to leaving humans unmolested. Some grumbled, but not too loudly."
 msgstr ""
+"W. i. sz. 9-ben az orkok új foglalóként jelentek meg a Nagy-Kontinensen, "
+"mire a Pash-God vezette törzs partra szállt, a wesnothiak már megtanulták "
+"félni az orkok kegyetlenségét. Az emberi település lakói sok aranyat adtak a "
+"vezérnek, hogy megkímélje az életüket, s még többet ígértek, ha békén hagyja "
+"őket. Pash-God elfogadta az ajánlatukat, s a zsúfolt tengerparttól távolabb "
+"vezette népét. Ahogy továbbmentek, Pash-God hasonló ajánlatot tett az "
+"útjukba került emberi települések lakóinak, s gyengéd szeretettel nézegette "
+"egyre gyarapodó aranyait. Természetesen arról szó sem lehetett, hogy "
+"másokkal is osztozkodjon, a törzs tagjai viszont egyre elégedetlenebbek "
+"lettek, amiért békén hagyták az embereket. De csak magukban morgolódtak. "
 
 #. [part]
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:42
@@ -101,52 +119,63 @@ msgid ""
 "knew that a new leader would have the support of the tribe. It was just a "
 "question of which clan was going to challenge Pash-Grod first...."
 msgstr ""
+"A törzs követte az orkok csapását a Központi-hegység, majd tovább észak "
+"felé, de az útjukba eső területeket már megszállták az orkok korábbi "
+"csapatai. Pash-God nem akart belháborút az orkok közt, s továbbvonultak "
+"északra. Végre találtak egy elhagyott barlangot, ami mellett egy kis erdő is "
+"volt. Pash-God elrendelte a letelepedést, s farkaslovasokat küldött délre, "
+"hogy az emberektől újabb kincseket szerezzenek. Ahogy a barlangok megteltek, "
+"a zsúfoltság egyre elviselhetetlenebbé vált, sokan hangosan zúgolódtak "
+"amiatt, hogy nem egy gazdagabb vidékre telepedtek le. Az elégedetlenség "
+"egyre erősödött, s nyilvánvalóvá vált, hogy egy új vezető kell a törzs "
+"élére. Csak idő kérdése volt, hogy melyik család kel fel Pash-God ellen "
+"először..."
 
 #. [scenario]: id=New_Leader
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:52
 msgid "New Leader"
-msgstr ""
+msgstr "Új főnök"
 
 #. [objective]: condition=win
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:80
 msgid "Become the leader of your tribe by killing the rival leaders."
-msgstr ""
+msgstr "A törzs főnökévé válsz, megölöd a rivális vezéreket"
 
 #. [objective]: condition=lose
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:87
 msgid "Death of Ubor"
-msgstr ""
+msgstr "Ubor meghal"
 
 #. [objective]: condition=lose
 #: The_Founding_of_Borstep/utils/tfob-utils.cfg:122
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:91
 msgid "Run out of turns"
-msgstr ""
+msgstr "Kifutsz az időből"
 
 #. [side]: type=Grunt Leader, id=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:145
 msgid "Ubor's Clan"
-msgstr ""
+msgstr "Ubor nemzetsége"
 
 #. [side]: type=Orcish Warlord, id=Pash-Grod
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:204
 msgid "Pash-Grod"
-msgstr ""
+msgstr "Pash-Grod"
 
 #. [side]: type=Orcish Slayer 2, id=Al Hauk
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:221
 msgid "Al Hauk's Assassins"
-msgstr ""
+msgstr "Al Hauk orgyilkosai"
 
 #. [side]: type=Goblin Pillager, id=Grashnok
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:280
 msgid "Grashnok's Wolves"
-msgstr ""
+msgstr "Grashnok farkasai"
 
 #. [side]
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:336
 msgid "Neutral Shamans"
-msgstr ""
+msgstr "Semleges sámánok"
 
 #. [message]: speaker=Varlag
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:540
@@ -154,6 +183,7 @@ msgid ""
 "Ubor! There's action in the main chamber. Pash-Grod's been poisoned! You "
 "should come watch."
 msgstr ""
+"Ubor! Galiba van a trónteremben. Pash-Godot megmérgezték! Oda kellene menned!"
 
 #. [message]: speaker=Al Hauk
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:566
@@ -161,21 +191,24 @@ msgid ""
 "...No, you idiot! Gold is for getting stuff you don't have, not for "
 "collecting and <i>storing</i>."
 msgstr ""
+"...Nem, te idióta! Az aranyért hiányzó dolgokat kell beszerezni, nem csak "
+"gyűjtögetni és <i>felhalmozni</i>."
 
 #. [message]: speaker=Pash-Grod
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:596
 msgid "Stand...still...(cough)"
-msgstr ""
+msgstr "Még... én vagyok... (köhög)"
 
 #. [message]: speaker=Grashnok
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:610
 msgid "Finally! I was tired that old fool. Now move out of the way, weakling."
 msgstr ""
+"Végre! Elegem volt már ebből a vén marhából. Félre az útból, hitvány féreg!"
 
 #. [message]: speaker=Al Hauk
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:614
 msgid "What? No way. I'm in charge!"
-msgstr ""
+msgstr "Micsoda? Ne álmodozz! Megállíthatatlan vagyok!"
 
 #. [message]: speaker=Varlag
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:618
@@ -183,6 +216,8 @@ msgid ""
 "They're both weaklings. Our clan in the strongest. We...uh...You should be "
 "the big boss."
 msgstr ""
+"Mindkettő puhány fickó. A mi nemzetségünk a legerősebb. Mi... ööö... Te vagy "
+"a legalkalmasabb a főnöki posztra."
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:622
@@ -190,11 +225,13 @@ msgid ""
 "Of course I should, and don't think that you can slack because we have the "
 "same father."
 msgstr ""
+"Természetesen én vagyok a megfelelő, s ezen az sem változtat, hogy te is az "
+"apánk fia vagy."
 
 #. [message]: speaker=Varlag
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:626
 msgid "No, no. I'm happy to help."
-msgstr ""
+msgstr "Öö, persze. Örömmel segítelek."
 
 #. [message]: speaker=Al Hauk
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:630
@@ -202,16 +239,20 @@ msgid ""
 "I'm coming back with some of my clan, and we'll see who's weak, and who's "
 "dead!"
 msgstr ""
+"Hívom a nemzetségemet, meglátjuk majd, hogy ki a gyenge, s ki hagyja itt a "
+"fogát!"
 
 #. [message]: speaker=Grashnok
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:642
 msgid "Maybe I should get some more expendable fighters too."
-msgstr ""
+msgstr "Azt hiszem szükségem lesz néhány használható harcosra."
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:657
 msgid "All right you slugs, up! We're gonna' go bash some skulls!"
 msgstr ""
+"Vége a lustálkodásnak, puhányok! Ideje, hogy beverjük néhány fickónak a "
+"koponyáját!"
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:661
@@ -219,16 +260,20 @@ msgid ""
 "The bows got stowed in one of the southern tunnels, and some of you wimps "
 "can handle one of those, at least. Go find 'em."
 msgstr ""
+"Az íjainkat egy déli csatornában tároljuk, úgyhogy a lekvárok menjenek "
+"értük, s azzal harcoljanak."
 
 #. [message]: speaker=narrator
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:665
 msgid "Once any unit finds the bows, you will be able to recruit archers."
 msgstr ""
+"Ahogy egy egység megtalálja az íjakat, elkezdheted toborozni az íjászokat."
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:670
 msgid "And someone get down to the wolf pens. We could use some speed."
 msgstr ""
+"S valaki menjen le a farkasok karámjába. Szükségünk lehet a gyorsaságukra."
 
 #. [message]: speaker=narrator
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:674
@@ -237,33 +282,37 @@ msgid ""
 "Also, up to four goblins who reach the wolf pens can mount wolves and become "
 "riders immediately. Level 1 goblins become level 2 riders."
 msgstr ""
+"Ha egy egység eléri a farkasok karámját, elkezdhetsz farkaslovasokat "
+"toborozni. Emellett legfeljebb négy kobold, aki eléri a karámot, felnyergel "
+"egy farkast, s azonnal lovassá válik. Az egyes szintű koboldokból kettes "
+"szintű lovas válik."
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:679
 msgid "Now move, maggots!"
-msgstr ""
+msgstr "Mozgás, férgek!"
 
 #. [message]: speaker=unit
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:694
 msgid "Look! There's a hole here behind this boulder."
-msgstr ""
+msgstr "Nézzétek! Egy lyuk van itt a szikla mögött."
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:698
 msgid "I think anyone could squeeze through that."
-msgstr ""
+msgstr "Valakinek be kéne néznie a szikla mögé."
 
 #. [message]: speaker=gold_guard1
 #. [message]: speaker=gold_guard2
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:769
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:779
 msgid "Hey! You can't come in here. Pash-Grod said so."
-msgstr ""
+msgstr "Hé! Senki nem jöhet ide. Pash-God parancsa."
 
 #. [message]: speaker=gold_guard2
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:773
 msgid "Yeah! What he said."
-msgstr ""
+msgstr "Eegen! Ezt mondta."
 
 #. [message]: speaker=unit
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:798
@@ -271,54 +320,58 @@ msgid ""
 "This must be the money Pash-Grod was collecting from the humans! There's a "
 "lot of gold here."
 msgstr ""
+"Ez lehet az az arany, amit Pash-God az emberektől gyűjtött be! Rengeteg "
+"arany van itt."
 
 #. [message]: speaker=narrator
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:809
 msgid "You receive {TREASURE} gold."
-msgstr ""
+msgstr "Hozzájutottál {TREASURE} aranyhoz."
 
 #. [message]: speaker=unit
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:830
 msgid "I reached the wolf pens."
-msgstr ""
+msgstr "Elértem a farkasok karámját."
 
 #. [message]: speaker=narrator
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:837
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1532
 msgid "You can now recruit wolf riders!"
-msgstr ""
+msgstr "Mostantól farkaslovasokat is toborozhatsz!"
 
 #. [message]: speaker=narrator
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:915
 msgid "This unit is too heavy to ride a wolf. Use a goblin instead."
 msgstr ""
+"Ez az egység túl nehéz, nem bírják el a farkasok. Próbálkozz inkább "
+"koboldokkal!"
 
 #. [message]: speaker=unit
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1066
 msgid "I found the bows."
-msgstr ""
+msgstr "Megtaláltam az íjakat."
 
 #. [message]: speaker=narrator
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1073
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1575
 msgid "You can now recruit archers!"
-msgstr ""
+msgstr "Mostantól íjászokat is toborozhatsz!"
 
 #. [message]: speaker=unit
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1095
 msgid "Hey! There are bottles of poison in here."
-msgstr ""
+msgstr "Héjj! Egy csomó méregflakon van itt!"
 
 #. [message]: speaker=narrator
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1102
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1460
 msgid "You can now recruit assassins!"
-msgstr ""
+msgstr "Mostantól orgyilkosokat is toborozhatsz!"
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1216
 msgid "Hey, you shamans, come out here and help us take control of this mess!"
-msgstr ""
+msgstr "Hé, sámánok, gyertek elő, és segítsetek elrendezni ezt a patáliát!"
 
 #. [message]: speaker=unit
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1220
@@ -327,6 +380,8 @@ msgid ""
 "our support. In the mean time, we will heal anyone who needs it, until our "
 "supplies run out."
 msgstr ""
+"Nem, mi nem avatkozhatunk be. Amikor a törzsben eldőlt, ki a vezér, mi őt "
+"támogatjuk. De a gyógyításban segítünk, amíg tudunk."
 
 #. [message]: speaker=narrator
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1231
@@ -335,92 +390,100 @@ msgid ""
 "village, the shamans will immediately heal up to 16 points of damage, or "
 "heal 8 points and cure poison. This will work three times."
 msgstr ""
+"Ha egy egységet a sámánok faluja melletti orvosi táskás mezőre viszel, a "
+"sámánok legfeljebb 16 pontot gyógyítanak rajta, vagy kikúrálják a "
+"mérgezésből és legfeljebb 8 pontot  gyógyítanak rajta. Ezt háromszor teheted "
+"meg."
 
 #. [message]: speaker=unit
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1305
 msgid "I feel much better."
-msgstr ""
+msgstr "Sokkal jobban érzem magam."
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1321
 msgid "Then get back to work!"
-msgstr ""
+msgstr "Igen, akkor vissza a csatába!"
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1357
 msgid ""
 "I name myself Krag-Ubor! Does anyone else dispute my claim to leadership?"
 msgstr ""
+"Mostantól Krag-Ubornak nevezem magam! Van valaki, aki kétségbe meri vonni az "
+"alkalmasságomat a vezetésre?"
 
 #. [message]: speaker=narrator
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1409
 msgid "(Silence)"
-msgstr ""
+msgstr "(Csend)"
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1414
 msgid "Good. Shamans?"
-msgstr ""
+msgstr "Remek. Sámánok?"
 
 #. [message]: speaker=Erogrik
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1419
 msgid "We recognize Krag-Ubor as leader of the tribe."
-msgstr ""
+msgstr "Elismerjük Krag-Ubort a törzs főnökének."
 
 #. [message]: speaker=narrator
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1423
 msgid "You can now recruit shamans!"
-msgstr ""
+msgstr "Mostantól sámánokat is toborozhatsz!"
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1435
 msgid "I know there's poison stored around here somewhere. Find it."
 msgstr ""
+"Biztos, hogy valahol kell itt lennie egy rekesz méregflakonnak. Keressétek "
+"meg!"
 
 #. [message]: speaker=$near_unit.id
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1440
 msgid "Right away, boss."
-msgstr ""
+msgstr "Rendben, főnök!"
 
 #. [message]: speaker=$near_unit.id
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1453
 msgid "Here it is. There are lots of bottles in here."
-msgstr ""
+msgstr "Itt van! Egy csomó flakon van itt."
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1486
 msgid "Hey, you! Go down to the wolf pens, and bring up some wolves."
-msgstr ""
+msgstr "Hé, te! Menj le a farkasok karámjába, s hozz néhány farkast!"
 
 #. [message]: speaker=$near_unit.id
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1511
 msgid "Um, can't someone else do that?"
-msgstr ""
+msgstr "Én? Nem mehetne valaki más?"
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1515
 msgid "NO!"
-msgstr ""
+msgstr "NEM!"
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1550
 msgid "You! Go find where the bows are kept."
-msgstr ""
+msgstr "Te! Menj, keresd meg az íjakat!"
 
 #. [message]: speaker=$near_unit.id
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1555
 msgid "Got it boss."
-msgstr ""
+msgstr "Igenis, főnök."
 
 #. [message]: speaker=$near_unit.id
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1568
 msgid "Here they are."
-msgstr ""
+msgstr "Itt vannak!"
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/01_New_Leader.cfg:1586
 msgid "We're moving out right away."
-msgstr ""
+msgstr "Elérkezett az idő, hogy elhagyjuk ezt a hodályt."
 
 #. [part]
 #: The_Founding_of_Borstep/scenarios/02_Thieves.cfg:21
@@ -432,28 +495,35 @@ msgid ""
 "panniers heavy with gold had been tracked, and as Krag-Ubor began addressing "
 "his tribe, bandits were creeping into position."
 msgstr ""
+"Krag-Ubor friss és tiszta időben vezette népét dél felé. Az orkok hamar "
+"levadászták az erdejük vadjait, s az egész csapat korgó gyomorral vándorolt, "
+"s ahogy egyre tovább haladtak, az éhség egyre inkább mardosta őket. Nemcsak "
+"ez volt a probléma. A déli portyáról visszatérő farkaslovasok súlyos, "
+"aranyakkal megrakott szekerekről beszéltek, s miközben Krag-Ubor próbálta "
+"felrázni elcsigázott népét a jó hírrel, körülöttük banditák jelentek meg."
 
 #. [scenario]: id=Thieves
 #: The_Founding_of_Borstep/scenarios/02_Thieves.cfg:33
 msgid "Thieves"
-msgstr ""
+msgstr "Rablók"
 
 #. [objective]: condition=win
 #: The_Founding_of_Borstep/scenarios/02_Thieves.cfg:49
 #: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:63
 msgid "Defeat enemy leaders."
-msgstr ""
+msgstr "Legyőzöd az ellenséges vezéreket"
 
 #. [message]: speaker=Varlag
 #: The_Founding_of_Borstep/scenarios/02_Thieves.cfg:150
 msgid "We stopped here on our way north. I think it was good hunting."
-msgstr ""
+msgstr "Megállunk ezen a helyen. Jó vadászterületnek látszik."
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/02_Thieves.cfg:154
 msgid ""
 "Yeah. I can see some pigs in the forests right now. We'll camp here and..."
 msgstr ""
+"Eegen. Láttam néhány malacot futkosni az erdőben. Letáborozunk itt, és..."
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/02_Thieves.cfg:160
@@ -461,36 +531,38 @@ msgid ""
 "We stopped here on our way north. There were lots of pigs in the forest. "
 "We'll camp here and..."
 msgstr ""
+"Megállunk itt. Sok malacot láttam futkározni az erdőben. Letáborozunk itt, "
+"és..."
 
 #. [message]: speaker=Saurian1
 #: The_Founding_of_Borstep/scenarios/02_Thieves.cfg:166
 msgid "Ssstop! We have you surrounded!"
-msgstr ""
+msgstr "Megállni! Körrrbe vagytok véve!"
 
 #. [message]: speaker=Varlag
 #: The_Founding_of_Borstep/scenarios/02_Thieves.cfg:170
 msgid "Where did they come from?"
-msgstr ""
+msgstr "Honnan kerültek ezek ide?"
 
 #. [message]: speaker=Saurian2
 #: The_Founding_of_Borstep/scenarios/02_Thieves.cfg:174
 msgid "Now you will give usss your gold."
-msgstr ""
+msgstr "És most ssszépen ideadjátok az aranyatokat."
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/02_Thieves.cfg:178
 msgid "Not a chance. <i>You</i> will give <i>us</i> your <i>heads!</i>"
-msgstr ""
+msgstr "Még mit nem. <i>Ti</i> adjátok <i>nekünk</i> a <i>fejeteket!</i>"
 
 #. [message]: speaker=Saurian1
 #: The_Founding_of_Borstep/scenarios/02_Thieves.cfg:182
 msgid "Big words for sssuch a pitiful band of orcsss!"
-msgstr ""
+msgstr "Nagy ssszavak egy ilyen ocsmány brrrigantitól!"
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/02_Thieves.cfg:186
 msgid "Get 'em! And get me some meat too!"
-msgstr ""
+msgstr "Kapjátok el őket! S szerezzetek egy kis kaját is!"
 
 #. [message]: speaker=narrator
 #: The_Founding_of_Borstep/scenarios/02_Thieves.cfg:190
@@ -498,6 +570,8 @@ msgid ""
 "Killing wild boars will strengthen the tribe. Every boar you kill will heal "
 "each orc by 2, 4, or 6 hitpoints depending on the size of the boar."
 msgstr ""
+"A vaddisznók megölése erősíti a törzset. Minden disznó, amit leölsz, a "
+"szinttől függően 2,4, vagy 6 életerőponttal gyógyítja a sebesülteket. "
 
 #. [part]
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:16
@@ -509,53 +583,59 @@ msgid ""
 "with a human. It was strange to see a human this far north, but Krag-Ubor "
 "didn't ponder the oddity for long because his people were hungry again."
 msgstr ""
+"Bár a terület erdeiben rengeteg élelmet találtak, az orkok mégsem érezték "
+"jól magukat a nyílt, nehezen védhető terepen, így hamarosan újra útra "
+"keltek. Krag-Ubor fejében forgatott valamit, s tovább vezette népét délre. "
+"Alig hagyták el az előző táborhelyet, amikor emberekkel vitatkozó tündékbe "
+"botlottak. Meglepő volt, hogy ilyen messze északon emberekkel találkoznak, "
+"de Krag-Ubor nem sokáig meditálhatott, mert az éhség újra felütötte fejét."
 
 #. [scenario]: id=Life_and_Undeath
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:31
 msgid "Life and Undeath"
-msgstr ""
+msgstr "Élet és nemlét"
 
 #. [objective]: condition=win
 #: The_Founding_of_Borstep/scenarios/04_The_Law.cfg:52
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:47
 msgid "Defeat enemy leader."
-msgstr ""
+msgstr "Legyőzöd az ellenséges vezért"
 
 #. [side]: type=Necromancer, id=Ras-Tahban
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:80
 msgid "Undead Allies"
-msgstr ""
+msgstr "Élőholt szövetséges"
 
 #. [side]: type=Elvish Enchantress, id=Fathiel
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:101
 msgid "Elves"
-msgstr ""
+msgstr "Tündék"
 
 #. [side]
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:128
 msgid "Mermen"
-msgstr ""
+msgstr "Sellők"
 
 #. [message]: speaker=Fathiel
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:217
 msgid ""
 "Death is the only punishment for bringing such corruption to our forest."
-msgstr ""
+msgstr "A halál az egyetlen büntetés az általad okozott romlásért."
 
 #. [message]: speaker=Ras-Tahban
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:221
 msgid "But I am only attempting to understand what...Orcs!"
-msgstr ""
+msgstr "De én csak megpróbáltam megérteni, hogy... Orkok!"
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:225
 msgid "We're going to hunt here, and we'll kill anyone who stands in our way."
-msgstr ""
+msgstr "Vadászni jöttünk ide,, és megölünk mindenkit, aki az utunkba áll."
 
 #. [message]: speaker=Fathiel
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:229
 msgid "You'll not kill anything in our forests, foul creature!"
-msgstr ""
+msgstr "Egy egeret sem fogsz megölni az erdőnkben, ocsmány féreg!"
 
 #. [message]: speaker=Ras-Tahban
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:233
@@ -563,11 +643,13 @@ msgid ""
 "Orc, it seems that we have a common enemy. I don't care what you do in the "
 "forest, so as long as you leave me alone in my tower to do my experiments."
 msgstr ""
+"Ork, úgy látszik, közös az ellenségünk. Engem nem érdekel, mit vadászol le "
+"az erdőben, mindaddig, amíg békén hagysz engem a tornyomban."
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:237
 msgid "What's to stop us from taking your tower too?"
-msgstr ""
+msgstr "S miért ne foglalnám el a tornyodat is?"
 
 #. [message]: speaker=Ras-Tahban
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:241
@@ -575,11 +657,13 @@ msgid ""
 "Certainly you could, friend orc, but I know many useful secrets about life "
 "and death."
 msgstr ""
+"Természetesen megteheted, ork barátom, de én az élet és a halál számos "
+"titkát ismerem."
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:245
 msgid "We don't need any secrets."
-msgstr ""
+msgstr "Nem érdekelnek a titkaid."
 
 #. [message]: speaker=Ras-Tahban
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:249
@@ -589,16 +673,20 @@ msgid ""
 "die yourself, or you will lose your will, but the spirits of your companions "
 "will obey your commands."
 msgstr ""
+"De talán az élőholt harcosok hasznodra lehetnek. Ha segítesz nekem legyőzni "
+"a tündéket, feltámasztom az elesett harcosaidat. Te nem halhatsz meg, mert "
+"elveszted az akaratodat, de a csapatod feltámasztott tagjai a te "
+"parancsaidat követik."
 
 #. [message]: role=objector
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:253
 msgid "Uh, boss? Why don't we just move along."
-msgstr ""
+msgstr "Huhh, főnök. Miért nem állunk csak úgy tovább?"
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:257
 msgid "Shut up, you! I like this plan."
-msgstr ""
+msgstr "Fogd be a szád! Nekem tetszik az ötlet."
 
 #. [message]: speaker=narrator
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:261
@@ -607,47 +695,52 @@ msgid ""
 "same level. The unit will keep any experience it has, and level up "
 "immediately if it has enough to do so."
 msgstr ""
+"Ebben a küldetésben az elesett egység helyébe azonos szintű feltámadt "
+"szellem lép. Az egység megtartja tapasztalati pontjait, s  ha eléri a "
+"szintlépéshez szükséges pontot, akkor szintet lép."
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:274
 msgid "Curses! Now we won't get ghosts any more."
-msgstr ""
+msgstr "Átkozottak! Többet nem támadnak fel az elesett harcosaim."
 
 #. [value]
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:462
 msgid "$unit.name|'s Ghost"
-msgstr ""
+msgstr "$unit.name| szelleme"
 
 #. [message]: speaker=first_merman
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:516
 msgid "Ho there, elf! What is going on?"
-msgstr ""
+msgstr "Hó, tünde! Mi folyik itt?"
 
 #. [message]: speaker=$unit.id
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:520
 msgid ""
 "We are under attack by new creatures that foul the water and burn the trees."
 msgstr ""
+"Új foglalók érkeztek, akik összemocskolják a vizeket és felégetik az erdőt."
 
 #. [message]: speaker=first_merman
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:524
 msgid "Do you creatures deny this charge?"
-msgstr ""
+msgstr "Hé, ti ott, igazat mond ez a tünde?"
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:528
 msgid "Nope. We're orcs and we're takin' over these woods!"
-msgstr ""
+msgstr "Mi van? Mi orkok vagyunk, és kiirtunk mindent, ami az utunkba kerül!"
 
 #. [message]: speaker=first_merman
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:532
 msgid "This looks unpleasant, friend elf."
-msgstr ""
+msgstr "Hát ez valóban súlyosnak látszik, tünde barátom."
 
 #. [message]: speaker=Fathiel
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:536
 msgid "We will repell this foul invasion if you allow us to use your villages."
 msgstr ""
+"Visszaszorítjuk ezeket az ocsmány férgeket, ha használhatjuk a falvaitokat."
 
 #. [message]: speaker=first_merman
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:540
@@ -655,21 +748,24 @@ msgid ""
 "Agreed. But, if the orcs try to take one of our villages, they will find it "
 "well defended from the water."
 msgstr ""
+"Rendben. S ha ezek az orkok beteszik a mocskos tappancsukat a falvainkba, "
+"keményen megleckéztetjük őket."
 
 #. [message]: speaker=$first_merman.id
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:697
 msgid "What in creation are you?"
-msgstr ""
+msgstr "Hát ti meg kik vagytok?"
 
 #. [message]: speaker=$unit.id
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:701
 msgid "We're orcs and we're takin' over these woods. Now move."
 msgstr ""
+"Orkok vagyunk, s eltakarítjuk ezt az erdőt az útból. Húzzá' innen te is!"
 
 #. [message]: speaker=$first_merman.id
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:705
 msgid "Taking over! You may find that harder than you think. Attack!"
-msgstr ""
+msgstr "Eltakarítjátok? Nem eszik olyan forrón a kását! Támadás!"
 
 #. [message]: speaker=Fathiel
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:709
@@ -677,16 +773,18 @@ msgid ""
 "We'll help you repell this foul invasion if you allow us to use your "
 "villages."
 msgstr ""
+"Segítünk nektek ezeknek az ocsmány férgeknek a visszaszorításában, ha "
+"használhatjuk a falvaitokat."
 
 #. [message]: speaker=$first_merman.id
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:713
 msgid "Agreed."
-msgstr ""
+msgstr "Rendben."
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:749
 msgid "Ras-Tahban! Come with us."
-msgstr ""
+msgstr "Ras-Tahban! Gyere velünk!"
 
 #. [message]: speaker=Ras-Tahban
 #: The_Founding_of_Borstep/scenarios/03_Life_and_Undeath.cfg:753
@@ -695,6 +793,8 @@ msgid ""
 "forgotten that orcs are friends to those who seek to understand life and "
 "death."
 msgstr ""
+"Nem, én itt maradok és folytatom a tanulmányaimat. Nem felejtem el, hogy az "
+"orkok barátai azoknak, akik az élet és a halál titkait akarják megérteni."
 
 #. [part]
 #: The_Founding_of_Borstep/scenarios/04_The_Law.cfg:13
@@ -707,27 +807,33 @@ msgid ""
 "direction. Camped just south of the orc road was a well-armed company of "
 "humans."
 msgstr ""
+"Az orkok degeszre tömték magukat, s bőséges készletet halmoztak fel, ahogy "
+"az ősz előrehaladt, s már senki sem volt elégedetlen Krag-Ubor vándorútja "
+"miatt. S még az élőholtak a társaságukban sem háborgatták a lelkivilágukat. "
+"Ahogy a törzs elérte a Mourned-dombság szélét, rátértek egy karavánútra, "
+"amely kelet-nyugati irányban egy-egy ork erődhöz vitt. Az orkok útjától "
+"délre egy állig felfegyverzett emberi sereg táborozott."
 
 #. [scenario]: id=The_Law
 #: The_Founding_of_Borstep/scenarios/04_The_Law.cfg:36
 msgid "The Law"
-msgstr ""
+msgstr "A törvény"
 
 #. [message]: speaker=Varlag
 #: The_Founding_of_Borstep/scenarios/04_The_Law.cfg:163
 msgid "Look, even more humans in the north lands."
-msgstr ""
+msgstr "Nézzétek, újabb emberi sereg jött északra!"
 
 #. [message]: speaker=Fendarin
 #: The_Founding_of_Borstep/scenarios/04_The_Law.cfg:167
 msgid "A party of orcs approaches. They look heavily armed."
-msgstr ""
+msgstr "Egy ork sereg tűnt fel. Állig fel vannak fegyverkezve. "
 
 #. [message]: speaker=Daeltor
 #: The_Founding_of_Borstep/scenarios/04_The_Law.cfg:171
 msgid ""
 "They are coming from the correct direction. Let us ask about our quarry."
-msgstr ""
+msgstr "Épp a megfelelő irányból jönnek. Hátha találkoztak a szökevényünkkel."
 
 #. [message]: speaker=Fendarin
 #: The_Founding_of_Borstep/scenarios/04_The_Law.cfg:175
@@ -735,11 +841,13 @@ msgid ""
 "Hail, orcs! We seek a man named Rassin Tahban, who has broken our laws. Have "
 "you encountered someone of that name?"
 msgstr ""
+"Helló, orkok! Keresünk egy embert, Rassin Tahbant, aki megszegte a "
+"törvényünket. Nem találkoztatok vele véletlenül?"
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/04_The_Law.cfg:179
 msgid "That's our business, you pompous cur."
-msgstr ""
+msgstr "Mi a saját ügyünkben járunk, tojunk a törvényetekre."
 
 #. [message]: speaker=Fendarin
 #: The_Founding_of_Borstep/scenarios/04_The_Law.cfg:183
@@ -747,27 +855,32 @@ msgid ""
 "The man we speak of animated corpses to create ghastly undead servants. "
 "Surely, even you would agree that he deserves death."
 msgstr ""
+"Az az ember, akiről beszélünk szörnyű szellemeket idéz meg szolgának. "
+"Nyilván ti is egyetértetek, hogy megérdemli a halált. "
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/04_The_Law.cfg:187
 msgid "No we wouldn't. But <i>you're</i> asking for it."
-msgstr ""
+msgstr "Nem értünk egyet. <i>Minden</i> ember megérdemli a halált."
 
 #. [message]: speaker=Daeltor
 #: The_Founding_of_Borstep/scenarios/04_The_Law.cfg:191
 msgid "Let us dispatch these arrogant monsters so we can continue our search."
 msgstr ""
+"Tanítsuk meg kesztyűbe dudálni ezt a felfuvalkodott korcsot, aztán "
+"folytassuk a keresést!"
 
 #. [message]: type=White Mage
 #: The_Founding_of_Borstep/scenarios/04_The_Law.cfg:206
 msgid "The orcs direct undead! Burn them, destroy them all!"
-msgstr ""
+msgstr "Az orkok élőholtakat irányítanak! Tűzre velük, irtsátok ki őket!"
 
 #. [message]: speaker=Fendarin
 #: The_Founding_of_Borstep/scenarios/04_The_Law.cfg:210
 msgid ""
 "Now I see why you orcs are sympathetic to necromancy. We will show no mercy!"
 msgstr ""
+"Most már látom, miért szimpatizáltok a holtidézővel. Ne irgalmazzatok nekik! "
 
 #. [message]: speaker=Erogrik
 #: The_Founding_of_Borstep/scenarios/04_The_Law.cfg:214
@@ -775,6 +888,8 @@ msgid ""
 "It looks like those wizards <i>could</i> burn up our ghosts. Maybe we "
 "shouldn't use too many of them."
 msgstr ""
+"Úgy látom, azok a varázslók <i>könnyen</i> elbánnak a szellemeinkkel. Nem "
+"kéne őket bevetni."
 
 #. [part]
 #: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:18
@@ -784,6 +899,10 @@ msgid ""
 "to a fort they had passed on their way north with Pash-Grod, and which Krag-"
 "Ubor had had in mind from the beginning of their journey."
 msgstr ""
+"A törzs az úton nyugatra menetelt, az idő hidegre fordult, s a távoli "
+"hegycsúcsok tetejét hótakaró borította be.  Egy erődhöz értek, amelyet még "
+"Pash-God vezetése alatti vándorlásuk során érintettek, s amely végig ott "
+"lebegett Krag-Ubor szemei előtt. Ez volt az úticél."
 
 #. [part]
 #: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:21
@@ -796,11 +915,17 @@ msgid ""
 "below. Krag-Ubor paused to listen, thinking that perhaps the events "
 "occurring in the fort would be to his advantage."
 msgstr ""
+"Az erőd megrohamozása nehéz feladatnak látszott, de Krag-Ubor népe tele volt "
+"önbizalommal a korábbi győzelmeik után, és semmi sem tűnt lehetetlennek "
+"előttük. Hatalmas üdvrivalgás és az előrántott kardok érces hangja kísérte "
+"Krag-Ubor nyílt kihívását. A fal tetején zavar támadt, s a hűvös szél "
+"kiáltozás foszlányait sodorta alá. Krag-Ubor nem várt tovább, úgy gondolta, "
+"hogy a várbeli események is az ő malmára hajtják a vizet. "
 
 #. [scenario]: id=Fort_Narig
 #: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:44
 msgid "Fort Narig"
-msgstr ""
+msgstr "Narig erőd"
 
 #. [objective]: condition=win
 #: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:67
@@ -808,11 +933,13 @@ msgid ""
 "Defeat enemy leader <i>and</i> two hero units, <i>and</i> have at least "
 "{SWORD_COST} gold."
 msgstr ""
+"Legyőzöd az ellenséges vezért <i>ÉS</i> a két hőst, <i>ÉS</i> legalább "
+"{SWORD_COST} aranyat tartalékolsz."
 
 #. [message]: speaker=Leader_1
 #: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:154
 msgid "Dwarf! Is my new sword ready?"
-msgstr ""
+msgstr "Törpe! Elkészültél az új kardommal?"
 
 #. [message]: speaker=Durguld
 #: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:158
@@ -820,11 +947,13 @@ msgid ""
 "Aye, but ye ha' nae yet paid me for it. I still need {SWORD_COST} gold, or "
 "you do nae get the sword."
 msgstr ""
+"Ja, de hun van a pézem. Még jössz {SWORD_COST} arannya' vagy nem leszen tiéd "
+"a kard."
 
 #. [message]: speaker=Leader_1
 #: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:162
 msgid "Five gold, or it's your head!"
-msgstr ""
+msgstr "Öt arany, vagy fejed a lábad elé esik!"
 
 #. [message]: speaker=Leader_1
 #: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:195
@@ -832,11 +961,13 @@ msgid ""
 "Huh. Good thing he can't run fast! Borvosh, go find that little creep and "
 "take the...wait who is that on the plain?"
 msgstr ""
+"Huh. Szerencse, hogy nem tud gyorsan futni! Borvosh, menj, kapd el ezt a kis "
+"patkányt, és vedd el... Mi ez? Ki az a bohóc ott a mezőn?"
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:199
 msgid "We are the ones who are about to own this fort!"
-msgstr ""
+msgstr "Mi vagyunk azok, akik beköltözünk az erődödbe!"
 
 #. [message]: speaker=Leader_1
 #: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:203
@@ -844,6 +975,8 @@ msgid ""
 "We're under attack! Man the walls. All village guards man your posts, and "
 "<i>don't leave them!</i>"
 msgstr ""
+"Megtámadtak minket! Mindenki a falakra! A faluőrök is álljanak készenlétben, "
+"és <i>ne merészeljék elhagyni a helyüket!</i>"
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:309
@@ -851,26 +984,28 @@ msgid ""
 "I will have this fort and that shiny dwarf sword too. I'll even pay "
 "{SWORD_COST} gold for it."
 msgstr ""
+"Elfoglalom ezt az erődöt, és megszerzem azt a fényes törp kardot is. "
+"Hajlandó vagyok {SWORD_COST} aranyat adni érte."
 
 #. [message]: speaker=Leader_2
 #: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:409
 msgid "I'll take over! Now we'll get some real leadership around here."
-msgstr ""
+msgstr "Átveszem a parancsnokságot! Elég volt ebből a tutyimutyi totojázásból!"
 
 #. [message]: speaker=Leader_3
 #: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:414
 msgid "Now I'm the boss! You won't be able to kill me so easy."
-msgstr ""
+msgstr "Mostantól én vagyok a főnök! Engem nem lesz olyan könnyű megölni."
 
 #. [objective]: condition=win
 #: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:445
 msgid "Collect at least {SWORD_COST} gold."
-msgstr ""
+msgstr "Összegyűjtesz legalább {SWORD_COST} aranyat"
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:484
 msgid "Now I have enough money."
-msgstr ""
+msgstr "Most már van elég aranyam."
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:497
@@ -878,28 +1013,30 @@ msgid ""
 "Hi, dwarf! Where are you? I'll take that sword, and I'll pay you "
 "{SWORD_COST} gold."
 msgstr ""
+"Hej, törp! Hol vagy? Megveszem azt a kardot, kifizetem neked a hiányzó "
+"{SWORD_COST} aranyat."
 
 #. [message]: speaker=Durguld
 #: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:511
 msgid "Excellent. It is yours."
-msgstr ""
+msgstr "Kitűnő. Áll az alku."
 
 #. [effect]
 #. [object]
 #: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:522
 #: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:528
 msgid "Dwarvish greatsword"
-msgstr ""
+msgstr "Törp pallos"
 
 #. [object]
 #: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:529
 msgid "This sword adds two points of damage to every strike!"
-msgstr ""
+msgstr "Ez a kard két ponttal növeli a sebzésedet minden ütésnél!"
 
 #. [message]: speaker=Durguld
 #: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:535
 msgid "Be there any further business ye wish to conduct?"
-msgstr ""
+msgstr "Köthetünk újabb üzletet is?"
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:539
@@ -908,6 +1045,9 @@ msgid ""
 "fort easy enough, so someone else will try to take it from us. If we all had "
 "better weapons, we could hold off anybody."
 msgstr ""
+"Eegen, fel tudnád szerelni a teljes seregemet ilyen kitűnő karddal? Elég "
+"könnyen elfoglaltuk ezt az erődöt, de más is megpróbálhatja elfoglalni "
+"tőlünk. Ha jobb fegyvereink lennének, vissza tudnánk verni bárkit."
 
 #. [message]: speaker=Durguld
 #: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:543
@@ -917,6 +1057,10 @@ msgid ""
 "was to be terrible long, but joined with your force, I could take a shorter "
 "way. I can show ye a quick path beneath the mountains, though it be guarded."
 msgstr ""
+"Nem tok ennyi fegyvert egyedül megcsiná'ni, de ha elgyüssz hozzánk, "
+"hamarjába nyélbe üthettyük az üzletet. Örömmel csatlakozom hozzátok. Szörnyű "
+"nagy utat kén' tennem hazáig, de veletek együtt lerövidíthetem az utat. Van "
+"egy ösvény, ami levisz a hegy alá, de azt erősen őrzik."
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/05_Fort_Narig.cfg:547
@@ -924,6 +1068,8 @@ msgid ""
 "Guards don't bother us. We need the best weapons we can get, so guide us to "
 "your clan."
 msgstr ""
+"Az őrök nem zavarnak minket. A legjobb fegyverekre van szükségünk, tehát "
+"induljunk!"
 
 #. [part]
 #: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:15
@@ -935,6 +1081,12 @@ msgid ""
 "large door carved into the rock in the distance. The door lead to Durguld's "
 "home, but it first passed through a cavern inhabited by trolls."
 msgstr ""
+"Krag-Ubor mindössze egy rövid sétát várt, s néhány őrt az út végén, de az út "
+"jóval tovább tartott, s igen nehéznek bizonyult. Ahogy elindultak, hópihék "
+"kezdtek szállingózni, majd egyre sűrűbben esett a hó, s hamarosan vastag "
+"latyakos hó borította a földet, s egyre nehezebbé vált a közlekedés. Végül a "
+"messzeségben egy hatalmas sziklába vésett kapu tűnt fel. A kapu mögött volt "
+"Durguld otthona egy trollok által megszállt barlang után."
 
 #. [part]
 #: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:18
@@ -947,16 +1099,22 @@ msgid ""
 "with his runic hammer, but the elvish guards would have to be held off for "
 "him to reach the door."
 msgstr ""
+"Durguld elmesélte, hogy milyen súlyos harcokat vívnak a barlangi trollok és "
+"a Néma-erdő tündéi. Mostanában a tündék sikeresen visszaszorították a "
+"trollokat a barlangokba, de óriási vérveszteségeket szenvedtek. A tündék "
+"mágikusan lezárták a bejáratot, s a bejárat mellé őrséget állítottak. "
+"Durguld biztos volt benne, hogy meg tudja törni a kaput lezáró mágiát a "
+"rúnapörölyével, de ezen idő alatt a tünde őröket távol kellene tartani.  "
 
 #. [scenario]: id=Guarded_Door
 #: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:48
 msgid "Guarded Door"
-msgstr ""
+msgstr "Őrzött bejárat"
 
 #. [objective]: condition=win
 #: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:64
 msgid "Get Durlguld, and then Krag-Ubor to the door."
-msgstr ""
+msgstr "Előbb Durguld, majd Krag-Ubor is eléri a kaput"
 
 #. [objective]: condition=win
 #: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:69
@@ -965,13 +1123,16 @@ msgid ""
 "<span color='green'>Defeat enemy leaders.</span> <small>(early finish bonus)"
 "</small>"
 msgstr ""
+"<span color='white'>Választható feladat:</span>\n"
+"<span color='green'>Legyőzöd az ellenséges vezéreket.</span> <small>(jutalom "
+"a korai befejezésért)</small>"
 
 #. [message]: speaker=Durguld
 #: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:164
 msgid ""
 "It should nae be a difficult feat for ye to defeat these elves and reach "
 "yonder door."
-msgstr ""
+msgstr "Aligha okozhat nektek problémát a tündék legyőzése és a kapu elérése."
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:168
@@ -979,6 +1140,8 @@ msgid ""
 "Of course. Elves die easy. You hear that elves? We're goin' through your "
 "door!"
 msgstr ""
+"Persze hogy nem. A tündék gyengék. Idehallgassatok, tündék! Átsétálunk a "
+"kaputokon a barlangba."
 
 #. [message]: speaker=Cellindor
 #: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:172
@@ -987,26 +1150,29 @@ msgid ""
 "continent. No one may approach this door, on penalty of death. Your party "
 "must turn back."
 msgstr ""
+"Ha kiengeditek a trollokat, az egész kontinens veszélybe kerülhet. Senki nem "
+"közelítheti meg azt az ajtót! Aki megpróbálja, az a halál fia. Forduljatok "
+"vissza!"
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:176
 msgid "I hate being told what to do!"
-msgstr ""
+msgstr "Utálom, ha valaki meg akarja mondani, mit csináljak."
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:184
 msgid "Now let's get into this troll tunnel."
-msgstr ""
+msgstr "Na, gyerünk abba a troll lyukba!"
 
 #. [message]: speaker=Durguld
 #: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:228
 msgid "I've unsealed the door. Follow me!"
-msgstr ""
+msgstr "Hatástalanítottam a mágiát. Kövessetek!"
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:278
 msgid "I can't open the door!"
-msgstr ""
+msgstr "Nem tudom kinyitni a kaput!"
 
 #. [message]: speaker=Durguld
 #: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:282
@@ -1014,11 +1180,13 @@ msgid ""
 "As I told ye, it be magically sealed. Let me get to the door, and I can open "
 "it."
 msgstr ""
+"Mint montam, mágikusan zárták le. Hadd mennyek oda, majd én elintézem, hogy "
+"kinyíljon."
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/06_Guarded_Door.cfg:300
 msgid "Without Durguld, we won't be able to open that door."
-msgstr ""
+msgstr "Durguld nélkül nem tudjuk kinyitni a kaput."
 
 #. [part]
 #: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:16
@@ -1030,6 +1198,13 @@ msgid ""
 "well populated, so the orcs bared their teeth and prepared for battle, but "
 "this time they did it quietly."
 msgstr ""
+"Az orkok benyomultak a barlangba, majd gondosan eltorlaszolták maguk mögött "
+"a bejáratot, hogy védjék a hátukat a túlélő tündéktől. Miután szemük "
+"megszokta a sötétséget, körülnéztek, de trolloknak a nyomát se látták, bár "
+"csapkodás, morgás és mozgás hangjai hallatszottak a távolból. A barlang "
+"nyilvánvalóan lakott volt, tehát az orkok elővették fegyvereiket, s "
+"felkészültek a csatára, ezúttal azonban, szokásukkal ellentétben, ezt "
+"csendben tették."
 
 #. [side]: id=Nuk Thoh, type=Troll Rocklobber
 #. [side]: id=Gulg, type=Troll Warrior
@@ -1040,27 +1215,27 @@ msgstr ""
 #: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:122
 #: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:135
 msgid "Trolls"
-msgstr ""
+msgstr "Trollok"
 
 #. [side]
 #: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:185
 msgid "Bats"
-msgstr ""
+msgstr "Denevérek"
 
 #. [message]: speaker=narrator
 #: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:424
 msgid "You receive $treasure gold."
-msgstr ""
+msgstr "Hozzájutsz $treasure aranyhoz."
 
 #. [message]: speaker=unit
 #: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:446
 msgid "Look! There's a little tunnel back here."
-msgstr ""
+msgstr "Nézzétek! Egy kis járat van itt."
 
 #. [message]: speaker=unit
 #: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:478
 msgid "Hey, what in the world is that thing on the platform?"
-msgstr ""
+msgstr "Hej, mi az ördög van ott azon a szirten?"
 
 #. [message]: speaker=Durguld
 #: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:484
@@ -1068,66 +1243,68 @@ msgid ""
 "That be a golem I reckon, but I've nae heard o' golems made from flesh; only "
 "from stone. How long has it been trapped there, I cannae guess."
 msgstr ""
+"Azt hiszem, hogy gólem, bár hús-vér gólemról még nem hallottam; csak "
+"kőgólemről. Elképzelni sem tudom, mióta állhat ott a szirten."
 
 #. [message]: speaker=unit
 #: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:508
 msgid "I found a map of this cavern!"
-msgstr ""
+msgstr "Találtam egy térképet a járatban."
 
 #. [message]: speaker=$second_unit.id
 #: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:551
 msgid "Why are the bats attacking us and not the trolls?"
-msgstr ""
+msgstr "Miért támadnak minket a denevérek, s a trollokat miért nem?"
 
 #. [message]: speaker=Erogrik
 #: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:560
 msgid "They're vampire bats. Do trolls even have blood?"
-msgstr ""
+msgstr "Mert vérszívó denevérek. Van a trolloknak vérük?"
 
 #. [message]: speaker=Durguld
 #: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:566
 msgid "They be vampire bats. I do not ken what trolls use for blood."
-msgstr ""
+msgstr "Mivel vérszívó denevérek. A trollokból nem tudnak jóllakni."
 
 #. [message]: speaker=$generic_troll1.id
 #: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:605
 msgid "We under attack!"
-msgstr ""
+msgstr "Támadás van rajtunk!"
 
 #. [message]: speaker=$generic_troll2.id
 #: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:613
 msgid "Good! Me hungry."
-msgstr ""
+msgstr "Remek! Éhes pocim."
 
 #. [message]: speaker=Nuk Thoh
 #: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:617
 msgid "The rock tosser clan will crush!"
-msgstr ""
+msgstr "A sziklazúzó nemzetség szétzúz orkok!"
 
 #. [message]: speaker=Flesh_Golem
 #: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:760
 msgid "Master, what do you command?"
-msgstr ""
+msgstr "Mester, mi a parancsod?"
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:764
 msgid "What? Uh...kill anyone I tell you to!"
-msgstr ""
+msgstr "Mi van? Ja... ölj meg mindenkit, akit mondok."
 
 #. [message]: speaker=Flesh_Golem
 #: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:768
 msgid "Yes, master."
-msgstr ""
+msgstr "Igen, mester."
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:772
 msgid "I like this thing!"
-msgstr ""
+msgstr "Tetszik nekem ez a lény!"
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/07_Trolls.cfg:821
 msgid "Without Durguld, we'll never be able to find the dwarves."
-msgstr ""
+msgstr "Durguld nélkül sosem találjuk meg a törpöket."
 
 #. [part]
 #: The_Founding_of_Borstep/scenarios/08_Underground_Lake.cfg:12
@@ -1140,22 +1317,29 @@ msgid ""
 "light and water was enough to support a swampy community of bizarre plants "
 "and animals far from sunlight."
 msgstr ""
+"A csapat továbbmenetelt a barlangjáratban, majd hosszas gyaloglás után fényt "
+"láttak felragyogni. A fény egyre erősebb lett, míg végül egy hatalmas "
+"teremben találták magukat. Itt a hegy belsejében olvadt lávafolyamok "
+"erecskéi tűntek elő a talpuk alatt. Egy tóból víz szivárgott ki , s hangos "
+"sistergéssel gőzzé vált, ahogy érintkezett a lávával. A termet betöltő gőz a "
+"látást is gátolta. A fény és a víz különös mocsárvilágot hozott létre, tele "
+"bizarr növényekkel és állatokkal."
 
 #. [scenario]: id=Underground_Lake
 #: The_Founding_of_Borstep/scenarios/08_Underground_Lake.cfg:46
 msgid "Underground_Lake"
-msgstr ""
+msgstr "Földalatti tó"
 
 #. [objective]: condition=win
 #: The_Founding_of_Borstep/scenarios/08_Underground_Lake.cfg:110
 msgid "Krag-Ubor must reach the north edge of the map."
-msgstr ""
+msgstr "Krag-Ubor eléri a térkép északi szélét"
 
 #. [side]
 #: The_Founding_of_Borstep/scenarios/08_Underground_Lake.cfg:217
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:259
 msgid "Monsters"
-msgstr ""
+msgstr "Szörnyek"
 
 #. [message]: speaker=Durguld
 #: The_Founding_of_Borstep/scenarios/08_Underground_Lake.cfg:231
@@ -1164,11 +1348,14 @@ msgid ""
 "here. Sometimes a dwarf comes into this chamber to collect food, and only "
 "sometimes does he return."
 msgstr ""
+"Innen északra lakunk. Át kell vágjunk ezen a termen, ami tele van mindenféle "
+"ocsmány kreatúrával. Néha egy-egy törp élelem után kutatva eljön ide, de nem "
+"sok tér vissza."
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/08_Underground_Lake.cfg:235
 msgid "It looks slimy but not dangerous. No problem."
-msgstr ""
+msgstr "Kicsit nedvesnek tűnik, de nem látszik veszélyesnek. Nem gond."
 
 #. [scenario]: id=Underground_Lake
 #: The_Founding_of_Borstep/scenarios/08_Underground_Lake.cfg:240
@@ -1176,26 +1363,30 @@ msgid ""
 "The label is partly worn away, but the remaining portion says, '..."
 "telligence.'"
 msgstr ""
+"A címke részben leszakadt, de a maradó részen az alábbi írás látszik: '.."
+"lligencia'"
 
 #. [scenario]: id=Underground_Lake
 #: The_Founding_of_Borstep/scenarios/08_Underground_Lake.cfg:241
 msgid "$unit.name can't take this potion."
-msgstr ""
+msgstr "$unit.name nem ihatja meg ezt az italt."
 
 #. [object]
 #: The_Founding_of_Borstep/scenarios/08_Underground_Lake.cfg:243
 msgid "Intelligence Potion"
-msgstr ""
+msgstr "Okosító Ital"
 
 #. [object]
 #: The_Founding_of_Borstep/scenarios/08_Underground_Lake.cfg:245
 msgid "This potion decreases a unit's experience requirements by one third!"
 msgstr ""
+"Az ital hatására egyharmadával csökken az egység szintlépéséhez szükséges "
+"tapasztalati pontszáma."
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/08_Underground_Lake.cfg:334
 msgid "Without Durguld, we'll never be able to get the dwarves' help."
-msgstr ""
+msgstr "Durguld nélkül semmi esélyünk a törpök segítségének megnyerésére."
 
 #. [part]
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:18
@@ -1206,37 +1397,42 @@ msgid ""
 "sandy patch of cave floor, and became the first people from the surface "
 "world to behold the dwarf city of Kalra-Duun."
 msgstr ""
+"Az orkok számára nem volt szokatlan a barlangi környezet, de a hosszú "
+"földalatti tartózkodás hatására az idő- és irányérzékük elveszett. Érthető "
+"tehát a megkönnyebbülésük, amikor feltűnt előttük úticéljuk. Egy homokos "
+"résznél megálltak, hogy rendbeszedjék magukat, hiszen ők voltak az első "
+"felszíni lények, akik megpillantották a törpök városát, Kalra-Duunt."
 
 #. [scenario]: id=Dwarf_City
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:54
 msgid "Dwarf City"
-msgstr ""
+msgstr "Törp város"
 
 #. [objective]: condition=win
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:99
 #: The_Founding_of_Borstep/scenarios/10_Dragons_Stair.cfg:71
 msgid "Kill all enemy units."
-msgstr ""
+msgstr "Megölsz minden ellenséges egységet"
 
 #. [label]
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:144
 msgid "Hall of Fallen Heroes"
-msgstr ""
+msgstr "Elesett Hősök Csarnoka"
 
 #. [side]: type=Dwarvish Arcanister, id=Blaudin
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:219
 msgid "Dwarves"
-msgstr ""
+msgstr "Törpök"
 
 #. [side]
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:275
 msgid "Ashkannog"
-msgstr ""
+msgstr "Ashkannog"
 
 #. [message]: speaker=Durguld
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:286
 msgid "Hail, cousin. I have returned!"
-msgstr ""
+msgstr "Helló, rokon. Visszatértem!"
 
 #. [message]: speaker=Blaudin
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:290
@@ -1244,6 +1440,8 @@ msgid ""
 "Durguld! 'Tis welcome to see ye! We've got a spot o' trouble, and you've "
 "arrived just in time to help out."
 msgstr ""
+"Durguld! Soha jobbkor nem gyühettél volna! Vóna egy kis problémánk, s épp "
+"időben gyüttél, hogy kisegíts minket."
 
 #. [message]: speaker=Durguld
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:294
@@ -1251,6 +1449,8 @@ msgid ""
 "Excellent, and I 'ave friends with me who be stout warriors. They wish to "
 "deal with us for work, but we'll clear those vermin from the city first."
 msgstr ""
+"Állok rendelkezésedre, de rettegett harcosokat is hoztam magammal. Üzletet "
+"akarnak kötni velünk, de előbb kitakarítjuk a városból ezeket a férgeket."
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:298
@@ -1258,11 +1458,14 @@ msgid ""
 "This sandy keep is not too good, but I guess we can organize here. Lets get "
 "up there and help stomp rats!"
 msgstr ""
+"Ez a homokra épült tábor nem a legjobb, de azt hiszem itt is "
+"megszervezhetjük a sereget. Munkára fel, segítsünk eltaposni ezeket a "
+"patkányokat!"
 
 #. [message]: speaker=Blaudin
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:302
 msgid "For that I thank you, friends."
-msgstr ""
+msgstr "Hálás köszönetünk, barátaink."
 
 #. [message]: speaker=narrator
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:306
@@ -1271,21 +1474,26 @@ msgid ""
 "Right click anywhere to give him directions. (However, when you ask him to "
 "move to a particular hex, he will sometimes decide against it.)"
 msgstr ""
+"Blaudin őrsége a végsőkig kitart, nem hagyja el a helyét. S Blaudin sem, "
+"amíg úgy látod jónak. Jobbklikkelj egy mezőre, ha oda akarod irányítani "
+"Blaudint. (Amennyiben a kijelölt mező nem megfelelő, megtagadhatja a "
+"mozgást)."
 
 #. [message]: speaker=$unit.id
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:388
 msgid "Neep, neep!"
-msgstr ""
+msgstr "Nííííp, nííííp!"
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:392
 msgid "First rats, and now bats and spiders. What are they all doing here?"
 msgstr ""
+"Először patkányok, most meg denevérek és pókok jönnek. Mit keresnek ezek itt?"
 
 #. [message]: speaker=Durguld
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:396
 msgid "I hope they nae be runnin' from some foul creature, but it may be so."
-msgstr ""
+msgstr "Remélem, nem valami nagyobb szörny elől futnak, minden megtörténhet."
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:400
@@ -1293,36 +1501,40 @@ msgid ""
 "Doesn't matter. We can fight anything. Did you already forget the giant "
 "squids?"
 msgstr ""
+"Nem számít. Szembeszállunk akár az ördöggel is. Elfelejtetted már azokat az "
+"óriás tintahalakat?"
 
 #. [message]: speaker=Ashkannog
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:414
 msgid "I am Ashkannog! I need space, and dwarves will move or die. Now!"
 msgstr ""
+"Ashkannog vagyok! Tetszik nekem ez a barlang, törpök takarodjatok, vagy "
+"meghaltok! Most!"
 
 #. [message]: speaker=Blaudin
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:418
 msgid "The dragon! The dragon is upon us!"
-msgstr ""
+msgstr "A sárkány! A sárkány támad ellenünk!"
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:422
 msgid "That must be your foul creature. It's kinda'...big."
-msgstr ""
+msgstr "Itt van a szörnyed. Háát... elég nagy."
 
 #. [set_menu_item]: id=freeze_Blaudin_menu_option
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:559
 msgid "Tell Blaudin not to move from his current space."
-msgstr ""
+msgstr "Megkéred Blaudint, hogy maradjon a helyén."
 
 #. [set_menu_item]: id=thaw_Blaudin_menu_option
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:579
 msgid "Allow Blaudin to move on his own."
-msgstr ""
+msgstr "Szabad mozgást engedsz Blaudinnak."
 
 #. [set_menu_item]: id=ai_controller_leader_control_1
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:602
 msgid "Ask Blaudin to move here on his next turn."
-msgstr ""
+msgstr "Megkéred Blaudint, hogy idejöjjön a következő körben."
 
 #. [message]: speaker=Blaudin
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:623
@@ -1330,6 +1542,8 @@ msgid ""
 "We thank ye Krag-Ubor. We prefer to study runic magic rather than engage in "
 "battle, so your arrival was well timed indeed."
 msgstr ""
+"Köszönjük, Krag-Ubor. Mi inkább a rúnamágiát műveljük a nyers harc helyett, "
+"igazán jókor érkeztetek."
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:627
@@ -1337,6 +1551,8 @@ msgid ""
 "Uh...yeah. We came down here to get better weapons. Durguld says you can "
 "make a bunch of 'em like mine here."
 msgstr ""
+"Öm...szívesen. Azért jöttünk, hogy jobb fegyvereket szerezzünk be. Durguld "
+"azt mondta, hogy egy rakat ilyen kardot tudtok kovácsolni, mint az enyém."
 
 #. [message]: speaker=Blaudin
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:636
@@ -1345,6 +1561,10 @@ msgid ""
 "ye. We can craft swords and spears, but cannae improve your crossbows. Nor "
 "can we improve the spectral weapons o' the spirits ye travel with."
 msgstr ""
+"Igen, tudunk. Mivel óriási segítséget nyújtottatok nekünk, hálából szívesen "
+"ellátunk titeket ilyen fegyverekkel. Kardokat és dárdákat is tudunk "
+"kovácsolni, de az íjaitokat nem tudjuk feljavítani. S a szellemek fegyvereit "
+"sem tudjuk jobbra cserélni."
 
 #. [message]: speaker=Blaudin
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:642
@@ -1352,11 +1572,14 @@ msgid ""
 "That we can. And ye have rendered a great service, so we'll not be chargin' "
 "ye. We can craft swords and spears, but cannae improve your crossbows."
 msgstr ""
+"Igen, tudunk. Mivel óriási segítséget nyújtottatok nekünk, hálából szívesen "
+"ellátunk titeket ilyen fegyverekkel. Kardokat és dárdákat is tudunk "
+"kovácsolni, de az íjaitokat nem tudjuk feljavítani."
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:648
 msgid "That's good enough."
-msgstr ""
+msgstr "Az is bőven elég lesz nekünk."
 
 #. [message]: speaker=narrator
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:654
@@ -1364,6 +1587,8 @@ msgid ""
 "When they are recalled, all orcs and goblins will receive +2 on swords and "
 "+1 on spears and knives!"
 msgstr ""
+"A visszahívott orkok és koboldok kardjai +2, a dárdái és kései +1 sebzést "
+"okoznak a lecserélt fegyverek miatt!"
 
 #. [message]: speaker=Durguld
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:659
@@ -1373,6 +1598,10 @@ msgid ""
 "come to a cliff we call the Dragon's Stair. That be a much more defensible "
 "location than your fort."
 msgstr ""
+"Vissza akartá' térni az ork erődbe, amit elfoglaltatok, de nekem lenne egy "
+"jobb ötletem. Ha követed az északi járatot, eljutsz egy sziklához, amit mi a "
+"Sárkány Lépcsőjének nevezünk. Az egy sokkal jobban védhető hely, mint az "
+"erődötök."
 
 #. [message]: speaker=Blaudin
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:663
@@ -1380,6 +1609,8 @@ msgid ""
 "I'll nae deny that we would like to have ye defending the northern approach "
 "to our realm."
 msgstr ""
+"S nem tagadom, mi is nyugodtak lennénk, ha ti védenétek a  barlangunk északi "
+"oldalát."
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:667
@@ -1387,21 +1618,23 @@ msgid ""
 "We'll go look at it, but if it's such a good spot, why did the dragon come "
 "down here?"
 msgstr ""
+"Vetünk rá egy pillantást, de ha olyan kedvező az a hely, miért jött le ide "
+"ez a sárkány?"
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:772
 msgid "He can't help us if he's <i>dead!</i>"
-msgstr ""
+msgstr "Nem segíthet minket, ha <i>halott!</i>"
 
 #. [message]: speaker=Blaudin
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:786
 msgid "Cousin! 'Tis the fault of ye orcs tha' he dies!"
-msgstr ""
+msgstr "Rokon! Ez a ti bűnötök orkok, hogy meghalt!"
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/09_Dwarf_City.cfg:790
 msgid "Well, that does it."
-msgstr ""
+msgstr "Ez tényleg szomorú."
 
 #. [part]
 #: The_Founding_of_Borstep/scenarios/10_Dragons_Stair.cfg:13
@@ -1415,6 +1648,14 @@ msgid ""
 "once had an outpost on the northern reaches of the mountains near a volcanic "
 "caldera, but that the coming of the dragon had forced their retreat."
 msgstr ""
+"Az orkok néhány hétig megszálltak Kalra-Duunban, miközben a törpök lázas "
+"sürgéssel kovácsolták az új fegyvereket. Ahogy elkészültek a fegyverek, az "
+"orkok útra keltek, s az északi járatban meneteltek egészen a Sárkány "
+"Lépcsőjéig. A kanyargós járatokban napokig tartott a fárasztó menetelés. Bár "
+"ők készítették a járatokat, törpemlékezet óta nem járt erre senki. Durguld "
+"megragadta az alkalmat, hogy kalandjairól meséljen. Elmondta azt is, hogy "
+"régen a törpöknek volt helyőrségük a hegy északi gerincén a vulkán kürtője "
+"mellett, de a sárkány érkezése föld alá kényszerítette őket."
 
 #. [part]
 #: The_Founding_of_Borstep/scenarios/10_Dragons_Stair.cfg:16
@@ -1426,21 +1667,27 @@ msgid ""
 "walls was the caldera and the cliff the Dwarves referred to as the stair. "
 "And on top of the cliff, silhouetted against the sky..."
 msgstr ""
+"Mikor végre elérték a járat végét, a felszíni ragyogás elvakította a "
+"félhomályhoz szokott szemüket. Ahogy lassan megszokták a havon csillogó "
+"napfényt is, szemük előtt feltűnt a régi törp erőd, masszív falain az idő "
+"vasfoga sem ejtett egy karcolást sem. A falak mögött volt a vulkán kürtője, "
+"s a szikla, amit a törpök lépcsőnek neveztek. A szikla tetején pedig az ég "
+"kékjében egy alak körvonalai rajzolódtak ki..."
 
 #. [scenario]: id=Dragons_Stair
 #: The_Founding_of_Borstep/scenarios/10_Dragons_Stair.cfg:54
 msgid "Dragon's Stair"
-msgstr ""
+msgstr "A Sárkány Lépcsője"
 
 #. [side]: type=Armageddon Drake, id=Varga Kohn
 #: The_Founding_of_Borstep/scenarios/10_Dragons_Stair.cfg:91
 msgid "Drakes"
-msgstr ""
+msgstr "Perzsekények"
 
 #. [message]: speaker=Durguld
 #: The_Founding_of_Borstep/scenarios/10_Dragons_Stair.cfg:147
 msgid "Another dragon!"
-msgstr ""
+msgstr "Még egy sárkány!"
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/10_Dragons_Stair.cfg:151
@@ -1449,11 +1696,16 @@ msgid ""
 "were some survivors of a great battle. They didn't look too good, but they "
 "were tasty."
 msgstr ""
+"Az nem sárkány, csak egy perzsekény. Évekkel ezelőtt útba ejtettünk egy "
+"szigetet, ahol egy nagy csatát túlélt néhány ilyen lény. Rusnya kinézetük "
+"ellenére finom húsuk van."
 
 #. [message]: speaker=Durguld
 #: The_Founding_of_Borstep/scenarios/10_Dragons_Stair.cfg:155
 msgid "That one looks healthy and mean. I assume he breathes fire?"
 msgstr ""
+"Ez viszont egészségesnek látszik, s jó erőben lévőnek. S ha jól tudom, tüzet "
+"is okádnak..."
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/10_Dragons_Stair.cfg:159
@@ -1461,21 +1713,23 @@ msgid ""
 "Yeah. No problem though, we got great new weapons. I like the look of this "
 "place, so lets get rid of that big lizard. Weapons up!"
 msgstr ""
+"Na igen. De ez sem jelent problémát, nagyszerű új fegyvereink vannak. "
+"Tetszik nekem a hely, tehát kapjuk el azt a nagy gyíkot. Fegyverbe!"
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/10_Dragons_Stair.cfg:167
 msgid "OK, so there's more than one. Still no problem."
-msgstr ""
+msgstr "Rendben, nincs egyedül. Semmi gond, több lesz a hús."
 
 #. [message]: speaker=Durguld
 #: The_Founding_of_Borstep/scenarios/10_Dragons_Stair.cfg:171
 msgid "Yonder force could indeed chase away even a dragon."
-msgstr ""
+msgstr "Ekkora sereg tényleg menekülésre késztethet még egy sárkányt is."
 
 #. [message]: speaker=Varlag
 #: The_Founding_of_Borstep/scenarios/10_Dragons_Stair.cfg:175
 msgid "But not Krag-Ubor! <i>Everyone</i> is scared of him!"
-msgstr ""
+msgstr "De Krag-Ubort nem! <i>Mindenki</i> fél tőle!"
 
 #. [message]: speaker=$unit.id
 #: The_Founding_of_Borstep/scenarios/10_Dragons_Stair.cfg:209
@@ -1483,41 +1737,44 @@ msgid ""
 "You called that cliff they're on a stair? It's nothing! More like a single "
 "step!"
 msgstr ""
+"Azt a sziklát, amin tanyáznak, neveztétek lépcsőnek? Hiszen nem is olyan "
+"magas. Egy nagyobb lépéssel a tetején vagyok!"
 
 #. [message]: speaker=Durguld
 #: The_Founding_of_Borstep/scenarios/10_Dragons_Stair.cfg:213
 msgid "Hmph! Ye be much taller than I."
-msgstr ""
+msgstr "Hmm! Persze, mer' te magasabb vagy, mint én."
 
 #. [message]: speaker=$unit.id
 #: The_Founding_of_Borstep/scenarios/10_Dragons_Stair.cfg:217
 msgid "It was a good joke though, right boss?"
-msgstr ""
+msgstr "Jó poén volt, ugye főnök?"
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/10_Dragons_Stair.cfg:221
 msgid "Call it the Dragon's Step if you want. Just get on with taking it!"
 msgstr ""
+"Nevezd akár a Sárkány Lépésének, ha akarod. Csak végezz a megszállókkal!"
 
 #. [message]: speaker=Krag-Ubor
 #: The_Founding_of_Borstep/scenarios/10_Dragons_Stair.cfg:233
 msgid "Stair or step, it's mine now! We are staying here."
-msgstr ""
+msgstr "Lépcső vagy lépés, mostantól az enyém! Itt maradunk."
 
 #. [message]: speaker=$shaman
 #: The_Founding_of_Borstep/scenarios/10_Dragons_Stair.cfg:303
 msgid "This city shall be known as Krag-Ubor's Step."
-msgstr ""
+msgstr "A város neve legyen Krag-Ubor's Step, azaz Krag-Ubor Lépése."
 
 #. [message]: speaker=narrator
 #: The_Founding_of_Borstep/scenarios/10_Dragons_Stair.cfg:307
 msgid "So it was that a poor joke became the name of a city."
-msgstr ""
+msgstr "Így történt, hogy egy gyenge poénból városnév született."
 
 #. [scenario]: id=Epilogue
 #: The_Founding_of_Borstep/scenarios/11_Epilogue.cfg:8
 msgid "Epilogue: Borstep"
-msgstr ""
+msgstr "Epilógus: Borstep"
 
 #. [message]: speaker=narrator
 #: The_Founding_of_Borstep/scenarios/11_Epilogue.cfg:39
@@ -1528,6 +1785,11 @@ msgid ""
 "structures, and used the stones to make their own dwellings--more crude "
 "perhaps, but more to their liking."
 msgstr ""
+"Krag-Ubor törzse elfoglalta a hegyoldalt, amely kitűnően védhetőnek "
+"bizonyult. Először egy impozáns cölöpkerítést építettek a szikla szélén, "
+"majd a lerombolt perzsekények által emelt épületek kövét felhasználva a "
+"saját igényeik szerint építették fel hajlékaikat, amelyek talán durvábbakra "
+"sikerültek, de nekik jobban megfeleltek."
 
 #. [message]: speaker=narrator
 #: The_Founding_of_Borstep/scenarios/11_Epilogue.cfg:44
@@ -1539,6 +1801,12 @@ msgid ""
 "advantage to whoever had access to them. In the time of Black-Eye Karun, the "
 "weapons cache became the resupply depot for all the unified orc tribes."
 msgstr ""
+"Krag-Ubor tovább üzletelt Kalra-Duun törpjeivel, s egy hatalmas "
+"fegyverraktárat hozott létre a város déli részén, a falak mögött kiépített "
+"katakombákba rejtve. Ezek a fegyverek felbecsülhetetlen segítséget "
+"nyújtottak az orkoknak több századon keresztül a különböző háborúkban, "
+"akárki jutott is hozzájuk. Fekete-Szem Karun idejében a fegyverraktár az "
+"egyesült ork törzsek felfegyverzésének fontos bázisává vált."
 
 #. [message]: speaker=narrator
 #: The_Founding_of_Borstep/scenarios/11_Epilogue.cfg:49
@@ -1549,11 +1817,15 @@ msgid ""
 "dwarves guarded the back entrance, and no enemy ever succeeded at breaching "
 "the city walls from below."
 msgstr ""
+"Sok évvel később, amikor Krag-Ubor nevét már a sámánok is elfelejtették, s a "
+"város neve is leegyszerűsödött, Borstep még mindig a bevehetetlen város "
+"hírében állt. Váratlan támadás nem érhette, mivel a baráti törpök védték a "
+"hátsó bejáratot, a falakat viszont egyetlen ellenség sem tudta áttörni."
 
 #. [unit_type]: id=Eyestalk, race=monster
 #: The_Founding_of_Borstep/units/Eyestalk.cfg:5
 msgid "Eyestalk"
-msgstr ""
+msgstr "Kígyószem"
 
 #. [unit_type]: id=Eyestalk, race=monster
 #: The_Founding_of_Borstep/units/Eyestalk.cfg:44
@@ -1563,21 +1835,26 @@ msgid ""
 "them to replenish their own. While almost defenseless against melee attacks, "
 "its deadly gaze from afar is not to be underestimated."
 msgstr ""
+"A 'Kígyószemek', ezek a növényszerű lények,  nevüket nyilvánvalóan arról a "
+"tulajdonságukról nyerték, hogy gyanútlan áldozataikat elbűvölve életerejüket "
+"megcsapolják, hogy sajátjukat növeljék. Gyakorlatilag védtelenek a "
+"közelharci támadásokkal szemben, de távoli halálos igézésüket hiba lenne "
+"alábecsülni."
 
 #. [attack]: type=impact
 #: The_Founding_of_Borstep/units/Eyestalk.cfg:51
 msgid "smash"
-msgstr ""
+msgstr "csapás"
 
 #. [attack]: type=arcane
 #: The_Founding_of_Borstep/units/Eyestalk.cfg:62
 msgid "gaze"
-msgstr ""
+msgstr "igézés"
 
 #. [unit_type]: id=Giant Rat, race=monster
 #: The_Founding_of_Borstep/units/Giant_Rat.cfg:4
 msgid "Giant Rat"
-msgstr ""
+msgstr "Óriás patkány"
 
 #. [unit_type]: id=Giant Rat, race=monster
 #: The_Founding_of_Borstep/units/Giant_Rat.cfg:19
@@ -1586,16 +1863,19 @@ msgid ""
 "sizes. They still are not very dangerous unless there is a whole pack of "
 "them, but then, there usually is."
 msgstr ""
+"Megfelelő élelemforrások mellett egyes patkányok hihetetlen méretűre "
+"megnőnek. Habár egymagukban így sem jelentenek veszélyt, de ha egy egész "
+"csapat rohan meg valakit, az komoly kihívásnak néz elébe."
 
 #. [attack]: type=blade
 #: The_Founding_of_Borstep/units/Giant_Rat.cfg:38
 msgid "bite"
-msgstr ""
+msgstr "harapás"
 
 #. [unit_type]: id=Leech, race=monster
 #: The_Founding_of_Borstep/units/Leech.cfg:5
 msgid "Leech"
-msgstr ""
+msgstr "Pióca"
 
 #. [unit_type]: id=Leech, race=monster
 #: The_Founding_of_Borstep/units/Leech.cfg:48
@@ -1615,36 +1895,47 @@ msgid ""
 "an almost unstoppable menace to explorers and dwellers of the caves they "
 "inhabit."
 msgstr ""
+"A piócák egyoldalú táplálkozásukról ismertek, a nagyobb lények vérét "
+"szívják, emiatt használatosak gyakran az orvoslásban is.\n"
+"\n"
+"Habár nincs közvetlen kapcsolat köztük, ugyanez a név ragadt egy különleges, "
+"helytülő féregszerű barlangi lényre is, amely amúgy nem veszélyes, mivel nem "
+"mozog. De ha egy óvatlan áldozat közel merészkedik hozzá, akkor karjaival "
+"megragadja, s szívószájával kiszívja annak vérét, hogy ezzel is növelje "
+"saját erejét, s gyógyítsa sebeit.\n"
+"\n"
+"Kész szerencse, hogy nem növesztettek lábakat, különben állandó veszélyt "
+"jelentenének a barlangot lakó, vagy azt feltárni igyekvő lényekre."
 
 #. [attack]: type=pierce
 #: The_Founding_of_Borstep/units/Leech.cfg:57
 msgid "sucker"
-msgstr ""
+msgstr "szívószáj"
 
 #. [terrain_type]: id=dwarven_road_village
 #: The_Founding_of_Borstep/utils/terrain.cfg:6
 msgid "Village"
-msgstr ""
+msgstr "Falu"
 
 #: The_Founding_of_Borstep/utils/tfob-utils.cfg:68
 msgid "Orcs"
-msgstr ""
+msgstr "Orkok"
 
 #. [objective]: condition=lose
 #: The_Founding_of_Borstep/utils/tfob-utils.cfg:103
 #: The_Founding_of_Borstep/utils/tfob-utils.cfg:114
 msgid "Death of Krag-Ubor"
-msgstr ""
+msgstr "Krag-Ubor meghal"
 
 #. [objective]: condition=lose
 #: The_Founding_of_Borstep/utils/tfob-utils.cfg:107
 msgid "Run out of Turns"
-msgstr ""
+msgstr "Kifutsz az időből"
 
 #. [objective]: condition=lose
 #: The_Founding_of_Borstep/utils/tfob-utils.cfg:118
 msgid "Death of Durguld"
-msgstr ""
+msgstr "Durguld meghal"
 
 #. [message]: speaker=narrator
 #: The_Founding_of_Borstep/utils/tfob-utils.cfg:142
@@ -1652,8 +1943,10 @@ msgid ""
 "With their momentum lost, the orcs descend into pointless squabling no "
 "matter how many of them you punish."
 msgstr ""
+"Elszalasztottad a kedvező alkalmat, az orkok végetnemérő perlekedésbe "
+"süllyedtek, amin semmiféle büntetéssel nem tudsz úrrá lenni."
 
 #. [effect]
 #: The_Founding_of_Borstep/utils/tfob-utils.cfg:442
 msgid "Dwarvish $weapons[$weapon].name"
-msgstr ""
+msgstr "Törp $weapons[$weapon].name"
